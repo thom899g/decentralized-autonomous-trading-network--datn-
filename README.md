@@ -1,0 +1,2 @@
+# decentralized-autonomous-trading-network--datn-
+**TITLE:** Decentralized Autonomous Trading Network (DATN)**DESCRIPTION:**  The Decentralized Autonomous Trading Network (DATN) is an innovative ecosystem designed to revolutionize trading through a network of self-evolving, intelligent bots. Each bot specializes in specific trading aspects, leveraging AI for market analysis, strategy execution, an
